@@ -20,8 +20,9 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
+    background-color: inherit;
 }
 
 .header div {
@@ -195,6 +196,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
