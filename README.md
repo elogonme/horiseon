@@ -10,4 +10,4 @@ This repository is available at [github.com/elogonme/horiseon](https://github.co
 ## Credits
 Refactored by Eldar Humbatov [github.com/elogonme](https://github.com/elogonme)
 ## License
-This source code is available to everyone under the standard [MIT license](LICENSE.md) 
+This source code is available to everyone under the standard [MIT license](LICENSE.txt) 
