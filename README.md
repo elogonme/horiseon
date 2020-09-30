@@ -1,7 +1,7 @@
 # Horiseon - Marketing agency Website
 Marketing agency Website Code refactoring to an existing site to make codebase that follows accessibility standards and is optimized for search engines.
 ## Installation
-Website can be accessed at [www.rovel.ca/horiseon](http://www.rovel.ca/horiseon)
+Website can be accessed at [elogonme.github.io/horiseon/](https://elogonme.github.io/horiseon/)
 ## Usage ##
 Read and access links on one main page   
 ![Demo of Main page](demo.jpg)
